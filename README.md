@@ -1,6 +1,6 @@
 Kisanhub Assignment
 
-for using this first you have to install django,python,django rest frsmework in the system.
+for using this first you have to install django,python,django rest framework in the system.
 
 Then in the command line Run these commands.
 
